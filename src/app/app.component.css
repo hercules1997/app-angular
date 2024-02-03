@@ -1,0 +1,10 @@
+
+
+div {
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(3, 2, 48, 1) 15%, rgba(4, 3, 53, 1) 30%, rgba(4, 34, 91, 1) 50%, rgba(4, 3, 53, 1) 70%, rgba(3, 2, 48, 1) 87%, rgba(2, 0, 36, 1) 100%);  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

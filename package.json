@@ -1,6 +1,11 @@
 {
   "name": "app-angular",
   "version": "0.0.0",
+  "author": {
+    "name": "Hércules Chaves Andrade",
+    "email": "hercules.chaves.andrade@gmail.com",
+    "url": "https://hercules1997.github.io/my-portfolio/"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
